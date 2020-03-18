@@ -1,5 +1,7 @@
 # Testing SSR for Vue Cal
 
+This uses the default Gridsome starter.
+
 To reproduce:
 ```
 npm install
