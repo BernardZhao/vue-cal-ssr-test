@@ -1,0 +1,13 @@
+{
+  "name": "ssr-test",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "vue-cal": "^2.24.8"
+  }
+}
